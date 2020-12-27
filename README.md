@@ -20,7 +20,7 @@ Sempre utilizo rem ao invés de qualquer outro nos meus projetos, assim o Ekerfa
   
   <br />
   
-  > Retira padronizações do <button> e do <a>
+  > Retira padronizações do **button** e do **a**
   
   <br />
   
