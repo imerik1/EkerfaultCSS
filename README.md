@@ -50,7 +50,7 @@ Sempre utilizo **rem** ao invés de qualquer outra unidade de tamanho nos meus p
 
 # Instalação
   ### Por link
-    > <link rel="stylesheet" href="https://gist.githubusercontent.com/imerik1/d1c8063a6faac548e6e85bc2bfb4e2a7/raw/303f910d4eb9af5de0d88c637fbc64e7f6010405/global.css">
+    <link rel="stylesheet" href="https://gist.githubusercontent.com/imerik1/d1c8063a6faac548e6e85bc2bfb4e2a7/raw/303f910d4eb9af5de0d88c637fbc64e7f6010405/global.css">
   
   <br />
   
