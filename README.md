@@ -11,3 +11,21 @@ Sempre utilizo rem ao invés de qualquer outro nos meus projetos, assim o Ekerfa
   > 1rem = 10px <br />
   Acostume a utilizar rem nos seus projetos <br />
   Além disso ele redimensiona conforme view width do usuário.
+  
+  <br />
+  
+  > Retira padronizações do body, como margin e outline.
+  
+  <br />
+  
+  > Retira padronizações do <button> e do <a>
+  
+  <br />
+  
+  > Não retira as formatações de texto
+  
+  <br />
+  
+  > Preparado para todos os navegadores
+  
+  <br />
