@@ -5,7 +5,7 @@
 # Propósito
 
 > Sempre utilizei Normalize CSS mas sentia que poderia fazer algo com o qual eu me sentiria mais confortável, foi assim que surgiu o meu Normalize CSS, o Ekerfault CSS que ajuda no template inicial dos meus projetos. <br />
-Sempre utilizo rem ao invés de qualquer outro nos meus projetos, assim o Ekerfault me ajuda a customizar automaticamente a fonte conforme view width do usuário.
+Sempre utilizo **rem** ao invés de qualquer outro unidade de tamanho nos meus projetos, assim o Ekerfault me ajuda a customizar automaticamente a fonte conforme view width do usuário.
 
 <br />
 
