@@ -29,3 +29,13 @@ Sempre utilizo rem ao invés de qualquer outro nos meus projetos, assim o Ekerfa
   > Preparado para todos os navegadores
   
   <br />
+  
+  > Retira padronizações das listas ordenadas e não ordenadas
+  
+  <br />
+  
+  > Entre outros.
+  
+  <br />
+  
+  > Menos de 1kb
